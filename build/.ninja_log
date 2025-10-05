@@ -1,0 +1,17 @@
+# ninja log v7
+22	668	7813965372218345	CMakeFiles/Incremental.dir/src/main.cpp.obj	d9e4bd6fbf40326e
+2	286	7813981247495662	build.ninja	da9cb58cac4a3115
+2	286	7813981247465651	C:/Users/chees/Desktop/CPP/build/cmake_install.cmake	da9cb58cac4a3115
+668	903	7813965378729998	Incremental.exe	8edfebeb0957fbd
+19	286	7813981247495662	build.ninja	da9cb58cac4a3115
+19	286	7813981247495662	C:/Users/chees/Desktop/CPP/build/cmake_install.cmake	da9cb58cac4a3115
+30	349	7813981983230018	CMakeFiles/Incremental.dir/src/Player/Player.cpp.obj	ab4d6d1fe82f714e
+5	651	7813981982911089	CMakeFiles/Incremental.dir/src/main.cpp.obj	d9e4bd6fbf40326e
+662	888	7813981989546600	Incremental.exe	996ea03c9eeb5822
+33	349	7813983576678637	CMakeFiles/Incremental.dir/src/Player/Player.cpp.obj	ab4d6d1fe82f714e
+5	662	7813983576346089	CMakeFiles/Incremental.dir/src/main.cpp.obj	d9e4bd6fbf40326e
+662	876	7813983582843421	Incremental.exe	996ea03c9eeb5822
+20	636	7813983924354800	CMakeFiles/Incremental.dir/src/main.cpp.obj	d9e4bd6fbf40326e
+637	855	7813983930544149	Incremental.exe	996ea03c9eeb5822
+21	338	7813984289229079	CMakeFiles/Incremental.dir/src/Player/Player.cpp.obj	ab4d6d1fe82f714e
+339	561	7813984292463082	Incremental.exe	996ea03c9eeb5822
